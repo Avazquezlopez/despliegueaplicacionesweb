@@ -1,10 +1,10 @@
 # Despliegue de Aplicaciones Web
 ## Adrián Vázquez López
 
-##Biografía
+### Biografía
 >Estudiante del ciclo formativo **Desarrolo de Aplicaciones Web** en la modalidad a ***distancia*** en el **[CIFP Avilés](https://www.cifpaviles.net/)**
 
-##Aplicación PrimaMainMetodos.java
+### Aplicación PrimaMainMetodos.java
 
 Lo que se pretende con esta aplicación a parte de su funcionamiento, ***que consiste en calcular la prima de un empleado dependiendo de si es directivo o no y los meses trabajados,*** es enseñar al alumno como se comenta cualquier aplicación *Java* para generar con **JavaDoc** la documentación y crear el sitio **HTML** correspondiente.
 
